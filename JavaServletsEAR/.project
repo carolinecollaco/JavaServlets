@@ -3,7 +3,6 @@
 	<name>JavaServletsEAR</name>
 	<comment></comment>
 	<projects>
-		<project>JavaServlets</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
